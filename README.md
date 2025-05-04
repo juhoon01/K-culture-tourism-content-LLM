@@ -30,6 +30,7 @@ K-Culture 관광 콘텐츠 특화 일본어 LLM 개발은 다음과 같이 수�
 - K-Culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 셋
 - prompt
 
-![image.png](attachment:8519d75f-c9bd-4c14-a438-aec76f4115ce:image.png)
+![image](https://github.com/user-attachments/assets/a2d324cc-fc72-40c6-9d29-e75bde9a2c85)
 
-![image.png](attachment:52d03248-1312-4c8d-bf83-d13489f79e26:image.png)
+![image](https://github.com/user-attachments/assets/fe52d97a-5455-42dd-ad20-9e6139083145)
+
